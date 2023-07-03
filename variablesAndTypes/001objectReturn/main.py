@@ -3,7 +3,7 @@
 class defaultValue:
 
     def __init__(self, a):
-        self.a = a
+        self.a = a 
 
 # creating class ,name of class lenTest
 class lenTest:
@@ -62,6 +62,7 @@ def truthValueTest():
 
 def main():
     truthValueTest()
+    #calling function truthValueTest
 
 
 
