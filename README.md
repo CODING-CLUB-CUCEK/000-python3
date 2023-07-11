@@ -1,6 +1,6 @@
 # python 101
-Repo for learning Python basics, from beginners to expert 
-links(solutions) for all the solved problems are given below .
+Repo for learning Python basics, from beginners to experts.
+### links(solutions) for all the solved problems are given below.
 
 
 
