@@ -1,5 +1,5 @@
-# 000-python3
-Repo for learning python basics,from beginners to expert 
+# python 101
+Repo for learning Python basics,from beginners to expert 
 
 
 
