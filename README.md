@@ -4,7 +4,7 @@ Repo for learning Python basics,from beginners to expert
 
 
 
-## Index
+## Index 
 - [Hacker rank](https://github.com/amal-krishna-m-u/000-python3/tree/main/Hackerrank)
     
     - [Introduction](https://github.com/amal-krishna-m-u/000-python3/tree/main/Hackerrank/Introduction) ``` solutions``` 
