@@ -15,3 +15,4 @@
     - [List Comprehensions](https://github.com/amal-krishna-m-u/000-python3/tree/main/Hackerrank/Basic%20data%20types/List%20Comprehensions)
     - [Nested List](https://github.com/amal-krishna-m-u/000-python3/tree/main/Hackerrank/Basic%20data%20types/Nested%20Lists)
     - [itertools.permutations](https://github.com/amal-krishna-m-u/000-python3/tree/main/Hackerrank/Basic%20data%20types/itertools.permutations)
+    - [List](https://github.com/LearningHubForAll/000-python/tree/main/Hackerrank/Basic%20data%20types/List)

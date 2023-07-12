@@ -23,3 +23,4 @@ Repo for learning Python basics, from beginners to experts.
         - [List Comprehensions](https://github.com/amal-krishna-m-u/000-python3/tree/main/Hackerrank/Basic%20data%20types/List%20Comprehensions)    ``` Easy```
         - [Nested List](https://github.com/amal-krishna-m-u/000-python3/tree/main/Hackerrank/Basic%20data%20types/Nested%20Lists)   ``` Easy```
         - [itertools.permutations](https://github.com/amal-krishna-m-u/000-python3/tree/main/Hackerrank/Basic%20data%20types/itertools.permutations)``` Easy```
+        - [List](https://github.com/LearningHubForAll/000-python/tree/main/Hackerrank/Basic%20data%20types/List) ```Easy```
